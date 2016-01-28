@@ -1,2 +1,2 @@
 # rougeypie
-Rogue-like written in python
+Rogue-like written in python pygame
